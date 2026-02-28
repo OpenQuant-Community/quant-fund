@@ -38,9 +38,29 @@ easytrader [easytrader项目](https://github.com/shidenggui/easytrader)
 ctprs+openmdgateway [ctp2rs项目](https://github.com/pseudocodes/ctp2rs)
 
 
-## 第一期项目结束~ 开启第二期的项目报名啦  ~
 
 
+## 第二期项目
+
+hqchart [hqchart](https://github.com/jones2000/HQChart)
+
+hikyuu [hikyuu](https://github.com/fasiondog/hikyuu)
+
+quantaxis [quantaxis](https://github.com/yutiansut/QUANTAXIS)
+
+zvt quant [zvt](https://github.com/zvtvz/zvt)
+
+frauto matlab svm/ 量化投资与FOF投资：以MATLAB+Python为工具
+
+mengrao [MengRao](https://github.com/MengRao)
+
+trader [trader](https://github.com/timercrack/trader)
+
+PandoraTrader [PandoraTrader](https://github.com/pegasusTrader/PandoraTrader)
+
+akquant [akquant](https://github.com/akfamily/akquant)
+
+## 第二期项目结束~ 开启第三期的项目报名啦  ~
 
 
 ### 背景与现状
@@ -148,9 +168,9 @@ ctprs+openmdgateway [ctp2rs项目](https://github.com/pseudocodes/ctp2rs)
 ---
 
 **量化开源基金会筹备委员会**  
-日期：[待填写]
 
 ---
+
 
 *"单独我们能做的很少，团结起来我们能做的很多。"*  
 *—— 海伦·凯勒*
