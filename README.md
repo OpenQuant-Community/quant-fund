@@ -60,6 +60,8 @@ PandoraTrader [PandoraTrader](https://github.com/pegasusTrader/PandoraTrader)
 
 akquant [akquant](https://github.com/akfamily/akquant)
 
+wukan [wukan](https://github.com/wukan1986)
+
 ## 第二期项目结束~ 开启第三期的项目报名啦  ~
 
 
