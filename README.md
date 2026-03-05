@@ -42,6 +42,8 @@ ctprs+openmdgateway [ctp2rs项目](https://github.com/pseudocodes/ctp2rs)
 
 ## 第二期项目
 
+fin-protoc [fin-protoc](https://github.com/xinchentechnote/fin-protoc)
+
 hqchart [hqchart](https://github.com/jones2000/HQChart)
 
 hikyuu [hikyuu](https://github.com/fasiondog/hikyuu)
